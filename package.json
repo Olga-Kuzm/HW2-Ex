@@ -24,6 +24,7 @@
     "@wdio/browserstack-service": "^7.16.11",
     "@wdio/cucumber-framework": "^7.16.6",
     "faker": "^5.5.3",
+    "webdriver": "^7.19.0",
     "yaml": "^1.10.2"
   }
 }
